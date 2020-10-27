@@ -1,0 +1,28 @@
+{
+    "name": "offlineterminalguide",
+    "version": "1.0.0",
+    "description": "a development documentation of offLineMinal",
+    "main": "index.js",
+    "scripts": {
+        "docs:dev": "vuepress dev docs",
+        "docs:build": "vuepress build docs"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/LiuYingRong/Offlineterminal.git"
+    },
+    "keywords": [
+        "offLineMinal",
+        "Guide"
+    ],
+    "author": "liuyingrong",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/LiuYingRong/Offlineterminal/issues"
+    },
+    "homepage": "https://github.com/LiuYingRong/Offlineterminal#readme",
+    "devDependencies": {
+        "@vuepress/plugin-back-to-top": "^1.7.1",
+        "vuepress": "^1.7.1"
+    }
+}
