@@ -26,6 +26,7 @@ module.exports = {
             collapsable: false,
             children: [
                 ['/guide/', '项目介绍'],
+                ['/guide/Technical', '技术路线'],
                 ['/guide/Standard', '开发规范'],
                 ['/guide/Progress', '开发进度'],
                 ['/guide/Issue', '问题反馈'],
